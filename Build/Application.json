@@ -1,7 +1,7 @@
 {
-"companyName": "Chorophronesis",
-"productName": "Reedsville_VirtualFieldTrip_Desktop",
-"productVersion": "1.0",
+"companyName": "DefaultCompany",
+"productName": "TestWeb",
+"productVersion": "0.1",
 "dataUrl": "Application.data.unityweb",
 "wasmCodeUrl": "Application.wasm.code.unityweb",
 "wasmFrameworkUrl": "Application.wasm.framework.unityweb",
